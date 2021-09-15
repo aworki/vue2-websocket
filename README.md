@@ -1,19 +1,14 @@
 # vue2-websocket
 
-## Project setup
-```
-yarn install
-```
+## 安装依赖
+npm install 
+cd server
+npm install
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 启动项目
+服务器
+npm run server
+客户端
+npm run dev
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
